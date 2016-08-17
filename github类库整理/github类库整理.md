@@ -1,3 +1,5 @@
+# github类库整理
+
 >UI类
 
 | 名称 | 作者 | 截图 | 使用举例 | 语言支持 | 简介 |
@@ -17,6 +19,11 @@
 |[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)|[Skyscanner](https://github.com/Skyscanner)|![](https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/showcase-example.gif)||swift|漂亮的输入悬浮标签|
 |[BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)|[George&nbsp;Marmaridis](https://github.com/gmarm)|![](https://camo.githubusercontent.com/5a35efc4c67e0908674ccf83531a57bac3761044/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f475246784145616f41416a716e5a36672f67697068792e676966)|swift||漂亮易用的分段选择器|
 |[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|[keishi&nbsp;suzuki](https://github.com/suzuki-0000)|![](https://github.com/suzuki-0000/SKPhotoBrowser/raw/master/Screenshots/example02.gif)|swift||图片选择器&浏览器|
+|[RKTagsView](https://github.com/kuler90/RKTagsView)|[Roman&nbsp;Kulesha](https://github.com/kuler90)|![](https://raw.githubusercontent.com/kuler90/RKTagsView/master/sample.gif)|Objective-C||标签文本 支持多种样式(YYText更加强大)|
+|[ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)|[Alex](https://github.com/fruitcoder)||swift||漂亮的下拉刷新动画|
+|[Fusuma](https://github.com/ytakzk/Fusuma)|[Yuta&nbsp;Akizuki](https://github.com/ytakzk)|![](https://raw.githubusercontent.com/wiki/ytakzk/Fusuma/images/shot2.jpg)|swift||仿Instagram的照片浏览器和camera|
+|[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)|[xmartlabs](https://github.com/xmartlabs)|![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)|swift||安卓PagerTabStrip在iOS上的实现|
+|[Countdown](https://github.com/soffes/Countdown)|[Sam&nbsp;Soffes](https://github.com/soffes)|![](https://github.com/soffes/Countdown/raw/master/Support/countdown.gif)|swift||Mac上的倒计时|
 
 
 
@@ -28,6 +35,9 @@
 |[GPUImage2](https://github.com/BradLarson/GPUImage2)|[Brad&nbsp;Larsonr](https://github.com/BradLarson)|![](https://camo.githubusercontent.com/68ce8767f20b6a40f2a695c56396d30234363431/687474703a2f2f73756e7365746c616b65736f6674776172652e636f6d2f73697465732f64656661756c742f66696c65732f475055496d6167654c6f676f2e706e67)||swift|充分发挥你的GPU能力|
 |[KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|[Zhouqi&nbsp;Mo](https://github.com/MoZhouqi)|![](https://raw.githubusercontent.com/MoZhouqi/KMNavigationBarTransition/master/Screenshots/Now1.gif)||Objective-C&swift|push时保存当前controller导航栏状态 pop时还原 不需要写一行代码|
 |[realm-cocoa](https://github.com/realm/realm-cocoa)|[Realm](https://github.com/realm)|![](https://github.com/realm/realm-cocoa/raw/master/logo.png)||Objective-C&swift|专业的移动端数据库 志在取代sqlite和coredata|
+|[SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)|[SimonFairbairn](https://github.com/SimonFairbairn)|![](https://camo.githubusercontent.com/dc3b7c1e0ad8678a07d5f4f3ee58aa3e40439eb1/687474703a2f2f662e636c2e6c792f6974656d732f31323333326b33663273307330433238316832752f7377696674796d61726b646f776e2e706e67)||swift|解析markdown格式的文档到NSAttributedString|
+|[Appz](https://github.com/SwiftKitz/Appz)|[Kitz](https://github.com/SwiftKitz)|![](https://github.com/SwiftKitz/Appz/raw/master/resources/Demo.gif)||swift|用一种更加优雅的方式启动外部程序|
+|[Permission](https://github.com/delba/Permission)|[Damien](https://github.com/delba)|![](https://github.com/SwiftKitz/Appz/raw/master/resources/Demo.gif)||swift|通过统一的API管理各种系统权限|
 
 
 
@@ -90,7 +100,8 @@
 |[awesome-python](https://github.com/vinta/awesome-python)|[Vinta](https://github.com/vinta)|![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)|||python学习资料大全(en)|
 |[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|[dkhamsing](https://github.com/dkhamsing)||||开源iOS项目合辑|
 |[15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)|[Larry&nbsp;Natalicio](https://github.com/larrynatalicio)|![](https://raw.githubusercontent.com/larrynatalicio/15DaysofAnimationsinSwift/master/github-cover-image.png)||swift|新手的动画手册|
-|[swift-evolution](https://github.com/apple/swift-evolution)|[Apple](https://github.com/apple)||||swift进化历史记录|
+|[swift-evolution](https://github.com/apple/swift-evolution)|[Apple](https://github.com/apple)||||来自apple官方的swift版本演化历史记录|
+|[swift-summary](https://github.com/jakarmy/swift-summary)|[Juan&nbsp;Antonio](https://github.com/jakarmy)|![](https://camo.githubusercontent.com/de32b354687f1cd9b05a89e4aa03c7f2d311f294/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667)||swift|swift知识点总结并通过playground展示出来|
 
 
 
