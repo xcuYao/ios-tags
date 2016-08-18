@@ -17,13 +17,18 @@
 |[FrostedSidebar](https://github.com/edekhayser/FrostedSidebar)|[Evan&nbsp;Dekhayser](https://github.com/edekhayser)|![](https://raw.githubusercontent.com/edekhayser/FrostedSidebar/master/entrance.gif)||swift|使用iOS8新API实现的汉堡菜单|
 |[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)|[Abhinav&nbsp;Chauhan](https://github.com/me-abhinav)|![](https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif)||swift|带过渡效果的Label|
 |[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)|[Skyscanner](https://github.com/Skyscanner)|![](https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/showcase-example.gif)||swift|漂亮的输入悬浮标签|
-|[BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)|[George&nbsp;Marmaridis](https://github.com/gmarm)|![](https://camo.githubusercontent.com/5a35efc4c67e0908674ccf83531a57bac3761044/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f475246784145616f41416a716e5a36672f67697068792e676966)|swift||漂亮易用的分段选择器|
-|[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|[keishi&nbsp;suzuki](https://github.com/suzuki-0000)|![](https://github.com/suzuki-0000/SKPhotoBrowser/raw/master/Screenshots/example02.gif)|swift||图片选择器&浏览器|
-|[RKTagsView](https://github.com/kuler90/RKTagsView)|[Roman&nbsp;Kulesha](https://github.com/kuler90)|![](https://raw.githubusercontent.com/kuler90/RKTagsView/master/sample.gif)|Objective-C||标签文本 支持多种样式(YYText更加强大)|
-|[ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)|[Alex](https://github.com/fruitcoder)||swift||漂亮的下拉刷新动画|
-|[Fusuma](https://github.com/ytakzk/Fusuma)|[Yuta&nbsp;Akizuki](https://github.com/ytakzk)|![](https://raw.githubusercontent.com/wiki/ytakzk/Fusuma/images/shot2.jpg)|swift||仿Instagram的照片浏览器和camera|
-|[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)|[xmartlabs](https://github.com/xmartlabs)|![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)|swift||安卓PagerTabStrip在iOS上的实现|
-|[Countdown](https://github.com/soffes/Countdown)|[Sam&nbsp;Soffes](https://github.com/soffes)|![](https://github.com/soffes/Countdown/raw/master/Support/countdown.gif)|swift||Mac上的倒计时|
+|[BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)|[George&nbsp;Marmaridis](https://github.com/gmarm)|![](https://camo.githubusercontent.com/5a35efc4c67e0908674ccf83531a57bac3761044/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f475246784145616f41416a716e5a36672f67697068792e676966)||swift|漂亮易用的分段选择器|
+|[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|[keishi&nbsp;suzuki](https://github.com/suzuki-0000)|![](https://github.com/suzuki-0000/SKPhotoBrowser/raw/master/Screenshots/example02.gif)||swift|图片选择器&浏览器|
+|[RKTagsView](https://github.com/kuler90/RKTagsView)|[Roman&nbsp;Kulesha](https://github.com/kuler90)|![](https://raw.githubusercontent.com/kuler90/RKTagsView/master/sample.gif)||Objective-C|标签文本 支持多种样式(YYText更加强大)|
+|[ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation)|[Alex](https://github.com/fruitcoder)|||swift|漂亮的下拉刷新动画|
+|[Fusuma](https://github.com/ytakzk/Fusuma)|[Yuta&nbsp;Akizuki](https://github.com/ytakzk)|![](https://raw.githubusercontent.com/wiki/ytakzk/Fusuma/images/shot2.jpg)||swift|仿Instagram的照片浏览器和camera|
+|[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)|[xmartlabs](https://github.com/xmartlabs)|![](https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/instagram.gif)||swift|安卓PagerTabStrip在iOS上的实现|
+|[Countdown](https://github.com/soffes/Countdown)|[Sam&nbsp;Soffes](https://github.com/soffes)|![](https://github.com/soffes/Countdown/raw/master/Support/countdown.gif)||swift|Mac上的倒计时|
+|[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)|[Hiroshi&nbsp;Kimura](https://github.com/muukii)|![](https://github.com/muukii/NextGrowingTextView/raw/master/sample1.gif)||swift|自增长的textView|
+|[Gifu](https://github.com/kaishin/Gifu)|[Reda&nbsp;Lemeden](https://github.com/kaishin)|![](https://camo.githubusercontent.com/e4331454b371dc73a79e491f43e1b9ef987eb031/68747470733a2f2f64622e74742f5a4c667832336867)||swift|高性能UIImageView扩展支持gif|
+|[navigation-stack](https://github.com/Ramotion/navigation-stack)|[Ramotion](https://github.com/Ramotion)|![](https://camo.githubusercontent.com/585b099f6861ab2098feb0746a742a978c7abb01/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f32353531342f73637265656e73686f74732f313332303032342f76696265722d696f73372d636f6e636570742d6e617669676174696f6e2d6261722d72616d6f74696f6e2e676966)||swift|动画管理push堆栈|
+|[CircleMenu](https://github.com/Ramotion/circle-menu)|[Ramotion](https://github.com/Ramotion)|![](https://github.com/Ramotion/circle-menu/raw/master/preview.gif)||swift|漂亮的圆形动画菜单|
+|[FileBrowser](https://github.com/marmelroy/FileBrowser)|[Roy&nbsp;Marmelstein](https://github.com/marmelroy)|![](https://cloud.githubusercontent.com/assets/889949/13035402/75e4eb00-d34f-11e5-8b92-c921ecca9300.png)||swift|图形化的文件夹浏览器(当然只能看沙盒里边的内容)|
 
 
 
@@ -38,6 +43,7 @@
 |[SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)|[SimonFairbairn](https://github.com/SimonFairbairn)|![](https://camo.githubusercontent.com/dc3b7c1e0ad8678a07d5f4f3ee58aa3e40439eb1/687474703a2f2f662e636c2e6c792f6974656d732f31323333326b33663273307330433238316832752f7377696674796d61726b646f776e2e706e67)||swift|解析markdown格式的文档到NSAttributedString|
 |[Appz](https://github.com/SwiftKitz/Appz)|[Kitz](https://github.com/SwiftKitz)|![](https://github.com/SwiftKitz/Appz/raw/master/resources/Demo.gif)||swift|用一种更加优雅的方式启动外部程序|
 |[Permission](https://github.com/delba/Permission)|[Damien](https://github.com/delba)|![](https://github.com/SwiftKitz/Appz/raw/master/resources/Demo.gif)||swift|通过统一的API管理各种系统权限|
+|[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|[Robbie&nbsp;Hanson](https://github.com/robbiehanson)|||Objective-C|OC开发websocket第一库|
 
 
 
@@ -49,6 +55,7 @@
 |[SwiftFilePath](https://github.com/nori0620/SwiftFilePath)|[Norihiro Sakamoto](https://github.com/nori0620)|||swift|对NSFileManger的优秀封装|
 |[Format](https://github.com/marmelroy/Format)|[Roy&nbsp;Marmelstein](https://github.com/marmelroy)|![](https://cloud.githubusercontent.com/assets/889949/11407879/e18e5834-93b5-11e5-9d53-31a25d0d97df.png)||swift|格式化小数,货币、质量、序数单位以及16进制颜色|
 |[TextAttributes](https://github.com/delba/TextAttributes)|[Damien](https://github.com/delba)|![](https://raw.githubusercontent.com/delba/TextAttributes/assets/TextAttributes@2x.png)||swift|对NSAttributes的封装 使API用起来更加友好|
+|[Observable-Swift](https://github.com/slazyk/Observable-Swift)|[Leszek&nbsp;Ślażyński](https://github.com/slazyk)|||swift2.2|在swift上实现KVO|
 
 
 
@@ -87,6 +94,9 @@
 |[fastlane](https://github.com/fastlane/fastlane)|[fastlane](https://github.com/fastlane)|![](https://github.com/fastlane/fastlane/blob/master/fastlane/assets/fastlane_text.png)||Ruby|iOS&Android自动打包工具|
 |[FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script)|[Changbeom&nbsp;Ahn](https://github.com/kewlbear)|||Shell|FFMpeg iOS 编译脚本|
 |[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)|[SwiftyBeaver](https://github.com/SwiftyBeaver)|![](https://cloud.githubusercontent.com/assets/564725/13137893/1b8eced2-d624-11e5-9264-3416ff821657.png)||swift|可以在控制台打出不同颜色的log 以及远程收集log信息|
+|[KSCrash](https://github.com/kstenerud/KSCrash)|[Karl&nbsp;Stenerud](https://github.com/kstenerud)|||Objective-C|crash捕获报告/可以配合符号表查找log/bugtags借鉴项目|
+|[Log](https://github.com/delba/Log)|[Damien](https://github.com/delba)|![](https://raw.githubusercontent.com/delba/Log/assets/Logo@2x.png)||swift|可扩展的log输出框架|
+|[cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)|[CocoaPods](https://github.com/CocoaPods)|||Ruby|干净的删除你项目当中移除的pod组件|
 
 
 
@@ -100,8 +110,14 @@
 |[awesome-python](https://github.com/vinta/awesome-python)|[Vinta](https://github.com/vinta)|![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)|||python学习资料大全(en)|
 |[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|[dkhamsing](https://github.com/dkhamsing)||||开源iOS项目合辑|
 |[15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)|[Larry&nbsp;Natalicio](https://github.com/larrynatalicio)|![](https://raw.githubusercontent.com/larrynatalicio/15DaysofAnimationsinSwift/master/github-cover-image.png)||swift|新手的动画手册|
+|[30DaysofSwift](https://github.com/allenwong/30DaysofSwift)|[Allen&nbsp;Wang](https://github.com/allenwong)|![](https://raw.githubusercontent.com/allenwong/30DaysofSwift/master/github%20cover.png)||swift|新手的动画手册2|
 |[swift-evolution](https://github.com/apple/swift-evolution)|[Apple](https://github.com/apple)||||来自apple官方的swift版本演化历史记录|
 |[swift-summary](https://github.com/jakarmy/swift-summary)|[Juan&nbsp;Antonio](https://github.com/jakarmy)|![](https://camo.githubusercontent.com/de32b354687f1cd9b05a89e4aa03c7f2d311f294/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667)||swift|swift知识点总结并通过playground展示出来|
+|[RuntimeBrowser](https://github.com/nst/RuntimeBrowser)|[Nicolas&nbsp;Seriot](https://github.com/nst)|![](https://github.com/nst/RuntimeBrowser/raw/master/art/screenshot_iphone.png)||Objective-C|RunTime手册|
+|[iOS-tech-frontier](https://github.com/hehonghui/iOS-tech-frontier)|[Mr.Simple](https://github.com/hehonghui)||||一个定期翻译国外iOS优质的技术、开源库、软件架构设计、测试等文章的开源项目|
+|[awesome-ios](https://github.com/vsouza/awesome-ios)|[Vinicius&nbsp;Souza](https://github.com/vsouza)|![](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png)||swift|swift学习资料大全(en)|
+|[ios-dev-flow](https://github.com/leecade/ios-dev-flow)|[斯人](https://github.com/leecade)||||iOS 开发流程笔记(很详细学习了)|
+|[zen](https://github.com/100mango/zen)|[100mango](https://github.com/100mango)||||iOS 开发笔记2(很详细学习了)|
 
 
 
@@ -119,6 +135,8 @@
 | 名称 | 作者 | 截图 | 使用举例 | 语言支持 | 简介 |
 |------|------|------|----------|----------|------|
 |[zhao](https://github.com/programthink/zhao)|[编程随想](https://github.com/programthink)|||python|赵家人的关系图谱|
+|[node-apn](https://github.com/argon/node-apn)|[Andrew&nbsp;Naylor](https://github.com/argon)|![](https://camo.githubusercontent.com/04d35dbcf93bee8d305692a784a6a0f9e1a5df8a/68747470733a2f2f6e6f6465692e636f2f6e706d2f61706e2e706e673f646f776e6c6f6164733d74727565)||JavaScript|nodeJs实现apns推送本地调试利器|
+|[houston](https://github.com/nomad/houston)|[Nomad&nbsp;CLI](https://github.com/nomad)|![](https://camo.githubusercontent.com/c71d46e4ac69cbe961271c5bd6c64efb3898e66a/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f6d61642f6e6f6d61642e6769746875622e696f2f6173736574732f686f7573746f6e2d62616e6e65722e706e67)||Ruby|Ruby实现apns推送本地调试利器|
 
 
 
