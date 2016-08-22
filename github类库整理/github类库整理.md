@@ -1,5 +1,7 @@
 # github类库整理
 
+# github类库整理
+
 >UI类
 
 | 名称 | 作者 | 截图 | 语言 | 简介 |
@@ -38,6 +40,11 @@
 |[VGParallaxHeader](https://github.com/stoprocent/VGParallaxHeader)|[Marek&nbsp;Serafin](https://github.com/stoprocent)|![](https://raw.githubusercontent.com/stoprocent/VGParallaxHeader/master/demo.gif)|Objective-C|scrollView下拉顶部动画库|
 |[GSAlert](https://github.com/wxxsw/GSAlert)|[Ge&nbsp;Sen](https://github.com/wxxsw)||swift|好基友做的提示框控件|
 |[XLActionController](https://github.com/xmartlabs/XLActionController)|[xmartlabs](https://github.com/xmartlabs)|![](https://github.com/xmartlabs/XLActionController/raw/master/Media/demo_spotify.gif)|swift|自定义弹出尺寸的ActionSheet|
+|[RichEditorView](https://github.com/cjwirth/RichEditorView)|[Caesar&nbsp;Wirth](https://github.com/cjwirth)|![](https://github.com/cjwirth/RichEditorView/raw/master/art/Demo.gif)|swift|简单、模块化基于UIView深度定制的富文本编辑器|
+|[SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)|[Yuji&nbsp;Hato](https://github.com/dekatotoro)|![](https://github.com/dekatotoro/SlideMenuControllerSwift/raw/master/Screenshots/SlideMenuControllerSwift3.gif)|swift|侧滑菜单控件|
+|[PopBarView-Swift](https://github.com/caydyn-skd/PopBarView-Swift)|[Caydyn](https://github.com/caydyn-skd)|![](https://raw.githubusercontent.com/caydyn-skd/PopBarView-Swift/master/demonstrate.gif)|swift|类似微信朋友圈的点赞弹出按钮|
+|[Popover](https://github.com/corin8823/Popover)|[Yusuke&nbsp;Takahashi](https://github.com/corin8823)|![](https://github.com/corin8823/Popover/raw/master/ScreenShots/Screenshot.gif)|swift|类似FaceBook的弹出气泡|
+
 
 >功能类(开发App中重点实现某项功能或对某些代码的封装)
 
@@ -63,6 +70,7 @@
 |[Observable-Swift](https://github.com/slazyk/Observable-Swift)|[Leszek&nbsp;Ślażyński](https://github.com/slazyk)||swift2.2|在swift上实现KVO|
 |[Sugar](https://github.com/hyperoslo/Sugar)|[Hyper](https://github.com/hyperoslo)|![](https://raw.githubusercontent.com/hyperoslo/Sugar/master/Images/icon.png)|swift|包装了Cocoa常用的方法的语法糖，让你的代码看起来更加简洁|
 |[Then](https://github.com/devxoul/Then)|[Jeon&nbsp;Suyeol](https://github.com/devxoul)||swift|对象初始化语法糖,让写法更加优雅|
+|[SwiftyTimer](https://github.com/radex/SwiftyTimer)|[Radek&nbsp;Pietruszewski](https://github.com/radex)||swift|对NSTimer的封装让它的写法更加简单|
 
 
 >工具类(开发iOS中的工具 包括Xcode插件)
@@ -91,6 +99,7 @@
 
 | 名称 | 作者 | 截图 | 语言 | 简介 |
 |------|------|------|----------|------|
+|[swift](https://github.com/apple/swift)|[Apple](https://github.com/apple)|![](https://camo.githubusercontent.com/de32b354687f1cd9b05a89e4aa03c7f2d311f294/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667)|swift|本体在此!|
 |[Yep](https://github.com/CatchChat/Yep)|[CatchChat](https://github.com/CatchChat)|![](https://cloud.githubusercontent.com/assets/1941540/12776320/05da093e-ca90-11e5-8b6f-a50ec826cf9e.jpg)|swift|完整的纯swift项目 内容涵盖、网络请求、即时通讯、数据存储等大部分内容 非常棒的学习模版 代码清晰 结构合理|
 |[FOUR](https://github.com/SketchK/FOUR)|[SketchK](https://github.com/SketchK)|![](https://camo.githubusercontent.com/b15a2f15ef281983b2f38abbe33cc9b59b4b15c5/687474703a2f2f6f617065686677306c2e626b742e636c6f7564646e2e636f6d2f706963747572652d6f6e2d6769746875622f323031362d30372d32325f6261636b75702e706e67)|Objective-C|优秀的OC开源项目|
 |[WeChat](https://github.com/zhengwenming/WeChat)|[文明](https://github.com/zhengwenming)|![](https://github.com/zhengwenming/WeChat/blob/master/WeChat/WeChat.gif)|Objective-C|仿微信App|
@@ -159,4 +168,3 @@
 |[zhao](https://github.com/programthink/zhao)|[编程随想](https://github.com/programthink)||python|赵家人的关系图谱|
 |[node-apn](https://github.com/argon/node-apn)|[Andrew&nbsp;Naylor](https://github.com/argon)|![](https://camo.githubusercontent.com/04d35dbcf93bee8d305692a784a6a0f9e1a5df8a/68747470733a2f2f6e6f6465692e636f2f6e706d2f61706e2e706e673f646f776e6c6f6164733d74727565)|JavaScript|nodeJs实现apns推送本地调试利器|
 |[houston](https://github.com/nomad/houston)|[Nomad&nbsp;CLI](https://github.com/nomad)|![](https://camo.githubusercontent.com/c71d46e4ac69cbe961271c5bd6c64efb3898e66a/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f6d61642f6e6f6d61642e6769746875622e696f2f6173736574732f686f7573746f6e2d62616e6e65722e706e67)|Ruby|Ruby实现apns推送本地调试利器|
-
