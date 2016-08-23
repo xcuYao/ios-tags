@@ -1,7 +1,5 @@
 # github类库整理
 
-# github类库整理
-
 >UI类
 
 | 名称 | 作者 | 截图 | 语言 | 简介 |
@@ -44,6 +42,17 @@
 |[SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)|[Yuji&nbsp;Hato](https://github.com/dekatotoro)|![](https://github.com/dekatotoro/SlideMenuControllerSwift/raw/master/Screenshots/SlideMenuControllerSwift3.gif)|swift|侧滑菜单控件|
 |[PopBarView-Swift](https://github.com/caydyn-skd/PopBarView-Swift)|[Caydyn](https://github.com/caydyn-skd)|![](https://raw.githubusercontent.com/caydyn-skd/PopBarView-Swift/master/demonstrate.gif)|swift|类似微信朋友圈的点赞弹出按钮|
 |[Popover](https://github.com/corin8823/Popover)|[Yusuke&nbsp;Takahashi](https://github.com/corin8823)|![](https://github.com/corin8823/Popover/raw/master/ScreenShots/Screenshot.gif)|swift|类似FaceBook的弹出气泡|
+|[ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)|[Alex&nbsp;Littlejohn](https://github.com/AlexLittlejohn)|![](https://cloud.githubusercontent.com/assets/932822/8455694/c61de812-2006-11e5-85c0-a57e3d980561.jpg)|swift|高度自定义的相机_支持全屏照片|
+|[Material](https://github.com/CosmicMind/Material)|[CosmicMind](https://github.com/CosmicMind)|![](https://camo.githubusercontent.com/61589b3a5134fc551ce75ea7c101f94e530e7b01/687474703a2f2f7777772e636f736d69636d696e642e696f2f676966732f427574746f6e732e676966)|swift|Material_Design(原质化设计)动画库，方便在iOS上开发android风格的动画|
+|[Chatto](https://github.com/badoo/Chatto)|[Badoo&nbsp;Development](https://github.com/badoo)|![](https://github.com/badoo/Chatto/raw/master/readme-images/readme-pic-1.png)|swift|轻量级的聊天UI框架|
+|[Instructions](https://github.com/ephread/Instructions)|[Frédéric&nbsp;Maquin](https://github.com/ephread)|![](https://camo.githubusercontent.com/072ef03302b2ba16605c71f8e5e7a19bb700e149/687474703a2f2f692e696d6775722e636f6d2f4a556c514839462e676966)|swift|快速简单创建用户引导页|
+|[BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)|[Boris&nbsp;Emorine](https://github.com/Boris-Em)|![](https://camo.githubusercontent.com/12238fb7daad2379149633dc9e6fd0d16274046d/687474703a2f2f7331322e706f7374696d672e6f72672f766e32697261686a782f42454d436865636b5f426f782e676966)|Objective-C|iOS上高雅的复选框|
+|[PNChart](https://github.com/kevinzhow/PNChart)|[Kevin](https://github.com/kevinzhow)|![](https://dl.dropboxusercontent.com/u/1599662/line.png)|Objective-C|图表绘制框架|
+|[SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)|[江南的悲伤](https://github.com/SergioChan)|![](https://raw.githubusercontent.com/SergioChan/SCTrelloNavigation/master/Image/previewgif.gif)|Objective-C|类似日历的导航动效控件|
+|[PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)|[Roy&nbsp;Marmelstein](https://github.com/marmelroy)|![](https://camo.githubusercontent.com/6baa49ae74b9334bbf59f9b4877e24b02d0896ad/687474703a2f2f692e67697068792e636f6d2f336f3667626772756479434d38416b3679632e676966)|swift|对电话号码进行分析、格式化的库|
+|[CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)|[Cezary&nbsp;Wojcik](https://github.com/cezarywojcik)|![](https://github.com/cezarywojcik/CWStatusBarNotification/raw/master/screenshots/demo.gif)|Objective-C|statusBar上的通知条|
+
+
 
 
 >功能类(开发App中重点实现某项功能或对某些代码的封装)
@@ -71,6 +80,12 @@
 |[Sugar](https://github.com/hyperoslo/Sugar)|[Hyper](https://github.com/hyperoslo)|![](https://raw.githubusercontent.com/hyperoslo/Sugar/master/Images/icon.png)|swift|包装了Cocoa常用的方法的语法糖，让你的代码看起来更加简洁|
 |[Then](https://github.com/devxoul/Then)|[Jeon&nbsp;Suyeol](https://github.com/devxoul)||swift|对象初始化语法糖,让写法更加优雅|
 |[SwiftyTimer](https://github.com/radex/SwiftyTimer)|[Radek&nbsp;Pietruszewski](https://github.com/radex)||swift|对NSTimer的封装让它的写法更加简单|
+|[EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)|[Goktug&nbsp;Yilmaz](https://github.com/goktugyil)|![](https://github.com/goktugyil/EZSwiftExtensions/raw/master/charizard.png)|swift|swift好用的Extension集合|
+|[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|[forkingdog](https://github.com/forkingdog)|![](https://raw.githubusercontent.com/forkingdog/FDFullscreenPopGesture/master/Snapshots/snapshot0.gif)|Objective|iOS全屏支持侧滑反回category|
+|[KeyboardMan](https://github.com/nixzhu/KeyboardMan)|[nixzhu](https://github.com/nixzhu)||swift|对键盘事件的封装|
+|[VoiceMemos](https://github.com/MoZhouqi/VoiceMemos)|[nixzhu](https://github.com/nixzhu)||swift|对键盘事件的封装|
+|[YYKit](https://github.com/ibireme/YYKit)|[Yaoyuan](https://github.com/ibireme)||Objective-C|YY套装_一堆实用框架|
+|[BluetoothKit](https://github.com/rhummelmose/BluetoothKit)|[Rasmus&nbsp;Høhndorf&nbsp;Hummelmose](https://github.com/rhummelmose)||swift|蓝牙封装库|
 
 
 >工具类(开发iOS中的工具 包括Xcode插件)
@@ -82,6 +97,7 @@
 |[KSCrash](https://github.com/kstenerud/KSCrash)|[Karl&nbsp;Stenerud](https://github.com/kstenerud)||Objective-C|crash捕获报告/可以配合符号表查找log/bugtags借鉴项目|
 |[Log](https://github.com/delba/Log)|[Damien](https://github.com/delba)|![](https://raw.githubusercontent.com/delba/Log/assets/Logo@2x.png)|swift|可扩展的log输出框架|
 |[Rainbow](https://github.com/onevcat/Rainbow)|[Wei&nbsp;Wang](https://github.com/onevcat)||swift|自定义log输出样式|
+|[Alcatraz](https://github.com/alcatraz/Alcatraz)|[Zhouqi&nbsp;Mo](https://github.com/MoZhouqi)|![](https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png)|swift|使用新的API制作的语音录制框架(iOS8以上)|
 
 
 >网络请求 解析 数据模型
@@ -110,6 +126,10 @@
 |[SwiftDailyAPI](https://github.com/NicholasTD07/SwiftDailyAPI)|[Nicholas&nbsp;T.](https://github.com/NicholasTD07)||swift|swift写的知乎日报新闻API|
 |[spi](https://github.com/guoc/spi)|[Chen&nbsp;Guo](https://github.com/guoc)|![](http://spiim.com/images/00_with_black_frame.png)|swift|第三方输入法开源项目|
 |[apprtc-ios](https://github.com/ISBX/apprtc-ios)|[ISBX](https://github.com/ISBX)|![](https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg)|Objective-C|基于WebRTC的实时视频聊天App|
+|[Perfect](https://github.com/PerfectlySoft/Perfect)|[PerfectlySoft](https://github.com/PerfectlySoft)|![](https://camo.githubusercontent.com/81ad1ba366a771f72edea685e5be3101db3e489e/687474703a2f2f7777772e706572666563742e6f72672f6769746875622f506572666563745f47485f6865616465725f3835342e6a7067)|swift|swift写的服务器端_包含了示例app及完整的工程(swift一统江湖～)|
+|[Brushes](https://github.com/sprang/Brushes)|[Steve&nbsp;Sprang](https://github.com/sprang)||Objective-C|开源iOS画板工程|
+|[Eureka](https://github.com/xmartlabs/Eureka)|[xmartlabs](https://github.com/xmartlabs)|![](https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaExample2.gif)|swift|swift写的一个完整app|
+
 
 
 
@@ -159,6 +179,7 @@
 |[vue](https://github.com/vuejs/vue)|[vuejs](https://github.com/vuejs)|![](https://camo.githubusercontent.com/4597d7b53cb9a279f84f1350e9ef7d9d0c4e0d0f/687474703a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67)|JavaScript|简单而强大的前端框架|
 |[d3](https://github.com/d3/d3)|[D3](https://github.com/d3)|![](https://camo.githubusercontent.com/722a5cc12c7d40231ebeb8ca6facdc8547e2abf7/68747470733a2f2f64336a732e6f72672f6c6f676f2e737667)|JavaScript|实现数据画像的最佳前端框架|
 |[SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile)|[Alibaba-IntlUED-FD](https://github.com/sdc-alibaba)|![](http://m.sui.taobao.org/img/docs-ptr-demo.gif)|JavaScript|阿里巴巴国际UED前端出品的移动端UI库，轻量精美[link](http://m.sui.taobao.org/components/)|
+|[markdown-here](https://github.com/adam-p/markdown-here)|[Adam&nbsp;Pritchard](https://github.com/adam-p)|![](https://camo.githubusercontent.com/4d86f3e42a47d99458ea21f40ca80eaab7d8373a/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)|JavaScript|Chrome、FireFox扩展支持在邮件中编写markdown|
 
 
 >其他
