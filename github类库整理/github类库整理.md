@@ -1,5 +1,7 @@
 # github类库整理
 
+# github类库整理
+
 >UI类
 
 | 名称 | 作者 | 截图 | 语言 | 简介 |
@@ -51,7 +53,18 @@
 |[SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)|[江南的悲伤](https://github.com/SergioChan)|![](https://raw.githubusercontent.com/SergioChan/SCTrelloNavigation/master/Image/previewgif.gif)|Objective-C|类似日历的导航动效控件|
 |[PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)|[Roy&nbsp;Marmelstein](https://github.com/marmelroy)|![](https://camo.githubusercontent.com/6baa49ae74b9334bbf59f9b4877e24b02d0896ad/687474703a2f2f692e67697068792e636f6d2f336f3667626772756479434d38416b3679632e676966)|swift|对电话号码进行分析、格式化的库|
 |[CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)|[Cezary&nbsp;Wojcik](https://github.com/cezarywojcik)|![](https://github.com/cezarywojcik/CWStatusBarNotification/raw/master/screenshots/demo.gif)|Objective-C|statusBar上的通知条|
-
+|[Neon](https://github.com/mamaral/Neon)|[Mike&nbsp;Amaral](https://github.com/mamaral)|![](https://github.com/mamaral/Neon/raw/master/Screenshots/demo.gif)|swift|更适合语义化的布局框架、代码量少、withoutLayout|
+|[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|[forkingdog](https://github.com/forkingdog)|![](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell/raw/master/Sceenshots/screenshot2.gif)|Objective-C|设置好约束自动计算行高_约束必须是连续的|
+|[TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)|[Takuya&nbsp;Okamoto](https://github.com/entotsu)|![](https://github.com/entotsu/TKSubmitTransition/raw/master/demo.gif)|swift|dibbble上的一个按钮点击效果_酷炫|
+|[Onboard](https://github.com/mamaral/Onboard)|[Mike&nbsp;Amaral](https://github.com/mamaral)|![](https://github.com/mamaral/Onboard/raw/master/Screenshots/city.gif)|Objective-C|快速创建引导页动画的库|
+|[ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift)|[Zhang&nbsp;Yungui](https://github.com/rhcad)|![](https://github.com/rhcad/ShapeAnimation-Swift/raw/develop/Documentation/strokelines.gif)|swift|创建矢量动画库|
+|[HamburgerButton](https://github.com/fastred/HamburgerButton)|[Arkadiusz&nbsp;Holko](https://github.com/fastred)|![](https://raw.githubusercontent.com/fastred/HamburgerButton/master/demo.gif)|swift|汉堡按钮_酷炫|
+|[KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView)|[Zhouqi&nbsp;Mo](https://github.com/MoZhouqi)|![](https://raw.githubusercontent.com/MoZhouqi/KMPlaceholderTextView/master/Screenshots/preview.gif)|swift|支持placeHolder的UITextView|
+|[LayerPlayer](https://github.com/scotteg/LayerPlayer)|[Scott&nbsp;Gardner](https://github.com/scotteg)|![](https://github.com/scotteg/LayerPlayer/raw/master/Assets/CALayerTour.png)|swift|使用大量例子充分展示了CoreAnimation的API|
+|[COBezierTableView](https://github.com/knutigro/COBezierTableView)|[Knut&nbsp;Inge&nbsp;Grøsland](https://github.com/knutigro)|![](https://raw.githubusercontent.com/knutigro/COBezierTableView/master/Media/COBezier.gif)|swift|TableView沿着指定的BezierPath滚动|
+|[Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS)|[Yalantis](https://github.com/Yalantis)|![](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)|swift|漂亮的侧滑菜单|
+|[PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight)|[Yalantis](https://github.com/Yalantis)|![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)|swift|漂亮的下拉动画|
+|[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)|[Yalantis](https://github.com/Yalantis)|![](https://camo.githubusercontent.com/e09bb8fc50adba318c9f22174d1751c566f69530/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323030333337362f7461625f6261725f616e696d6174696f6e5f66696e2d30322e676966)|Objective-C|漂亮的TabBar动画|
 
 
 
@@ -86,6 +99,9 @@
 |[VoiceMemos](https://github.com/MoZhouqi/VoiceMemos)|[nixzhu](https://github.com/nixzhu)||swift|对键盘事件的封装|
 |[YYKit](https://github.com/ibireme/YYKit)|[Yaoyuan](https://github.com/ibireme)||Objective-C|YY套装_一堆实用框架|
 |[BluetoothKit](https://github.com/rhummelmose/BluetoothKit)|[Rasmus&nbsp;Høhndorf&nbsp;Hummelmose](https://github.com/rhummelmose)||swift|蓝牙封装库|
+|[Watchdog](https://github.com/wojteklu/Watchdog)|[Wojtek&nbsp;Lukaszuk](https://github.com/wojteklu)||swift|监听主线程_当主线程阻塞时发出警告|
+|[MonkeyKing](https://github.com/nixzhu/MonkeyKing)|[nixzhu](https://github.com/nixzhu)|![](https://raw.githubusercontent.com/nixzhu/MonkeyKing/master/images/wbOAuth.png)|swift|集成chineseSocial_Framework 不方便使用友盟的可以试试|
+
 
 
 >工具类(开发iOS中的工具 包括Xcode插件)
@@ -108,7 +124,8 @@
 |[Starscream](https://github.com/robbiehanson/CocoaAsyncSocket)|[Dalton](https://github.com/daltoniam)|![](https://raw.githubusercontent.com/daltoniam/starscream/assets/starscream.jpg)|swift|swift开发websocket第一库|
 |[AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)|[tristanhimmelman](https://github.com/tristanhimmelman)|暂无|swift|ObjectMaper配合Alamofire最佳实践 |
 |[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)|[Hearst-Digital&nbsp;Products&nbsp;Development&nbsp;Group](https://github.com/Hearst-DD)|暂无|swift|json转model框架|
-|[YYModel](https://github.com/ibireme/YYModel)|[Yaoyuan](https://github.com/ibireme)|![](https://camo.githubusercontent.com/73e6774154cfe8652b61f62e8ea32cac48969033/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594d6f64656c2f6d61737465722f42656e63686d61726b2f526573756c742e706e67)|Objective|高性能的model解析框架 默认的转换规则避免了许多因为数据问题产生的崩溃|
+|[YYModel](https://github.com/ibireme/YYModel)|[Yaoyuan](https://github.com/ibireme)|![](https://camo.githubusercontent.com/73e6774154cfe8652b61f62e8ea32cac48969033/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594d6f64656c2f6d61737465722f42656e63686d61726b2f526573756c742e706e67)|Objective-C|高性能的model解析框架 默认的转换规则避免了许多因为数据问题产生的崩溃|
+|[Just](https://github.com/JustHTTP/Just)|[Daniel&nbsp;Duan](https://github.com/JustHTTP)|![](https://raw.githubusercontent.com/JustHTTP/Just/master/Docs/IconMasked.png)|swift|友好的Http请求框架_提供了基本的Post/Get方法|
 
 
 >开源project
@@ -147,6 +164,7 @@
 |[cocoapods-deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate)|[CocoaPods](https://github.com/CocoaPods)||Ruby|干净的删除你项目当中移除的pod组件|
 |[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)|[Robby&nbsp;Russell](https://github.com/robbyrussell)|![](https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67)|Shell|最好用的zsh命令行|
 |[dshb](https://github.com/beltex/dshb)|[Omeed&nbsp;Safaee-Rad](https://github.com/beltex)|![](https://github.com/beltex/dshb/raw/master/doc/dshb.png)|swift|打印MACOS系统各项参数|
+|[GitUp](https://github.com/git-up/GitUp)|[GitUp](https://github.com/git-up)|![](https://camo.githubusercontent.com/9555dac9e4bd6d73801d88f9cd645c581c6a622f/687474703a2f2f692e696d6775722e636f6d2f743669433954432e706e67)|Objective-C|将Git操作变为动画\_保证你看了之后\_妈妈再也不会担心你忘记命令了|
 
 
 
@@ -170,6 +188,15 @@
 |[zen](https://github.com/100mango/zen)|[100mango](https://github.com/100mango)|||iOS 开发笔记2(很详细学习了)|
 |[atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)|[@Conf](https://github.com/atConf)|||2016中国swift开发者大会源文件|
 |[Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)|[Give&nbsp;money&nbsp;to&nbsp;charity](https://github.com/hsavit1)|![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)|swift|一大波学习swift的资源文件|
+|[show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)|[易枭寒](https://github.com/Yixiaohan)||python|Python练习册_每天一个小程序|
+|[iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)|[微博@iOS程序犭袁](https://github.com/ChenYilong)||Objective-C|iOS9适配系列教程|
+|[iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)|[shu223](https://github.com/ChenYilong)||swift&Objective-C|iOS9新特性举栗说明|
+|[iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)|[微博@iOS程序犭袁](https://github.com/ChenYilong)|![](https://camo.githubusercontent.com/e80430f344c68a6c91dd755b11130ba23a091e29/687474703a2f2f7777772e726573756d657461726765742e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031332f30362f6261642d696e746572766965772e6a7067)|Objective-C|招聘一个靠谱的iOS_面试题及答案|
+|[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)|[aimeizi](https://github.com/sxyx2008)|||iOS酷炫动画资源整理.cn|
+|[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)|[Caesar&nbsp;Wirth](https://github.com/cjwirth)|||iOSUI资源整理|
+|[ios-good-practices](https://github.com/futurice/ios-good-practices)|[Futurice](https://github.com/futurice)|[link](http://futurice.com/)||iOS最佳实践\_保证你使用最正确的轮子\_写出最规范的代码|
+|[ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)|[iamdaiyuan](https://github.com/iamdaiyuan)|||很老的一个iOS资源集合|
+
 
 
 >前端
