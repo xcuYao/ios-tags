@@ -65,6 +65,24 @@
 |[Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS)|[Yalantis](https://github.com/Yalantis)|![](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)|swift|漂亮的侧滑菜单|
 |[PullToMakeFlight](https://github.com/Yalantis/PullToMakeFlight)|[Yalantis](https://github.com/Yalantis)|![](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif)|swift|漂亮的下拉动画|
 |[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)|[Yalantis](https://github.com/Yalantis)|![](https://camo.githubusercontent.com/e09bb8fc50adba318c9f22174d1751c566f69530/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323030333337362f7461625f6261725f616e696d6174696f6e5f66696e2d30322e676966)|Objective-C|漂亮的TabBar动画|
+|[KYFloatingBubble](https://github.com/KittenYang/KYFloatingBubble)|[Qitao&nbsp;Yang](https://github.com/KittenYang)|![](https://github.com/KittenYang/KYFloatingBubble/raw/master/floatingbubble.gif)|swift|类似iOS7中Game Center浮动气泡的效果|
+|[SwiftSpinner](https://github.com/icanzilb/SwiftSpinner)|[Marin&nbsp;Todorov](https://github.com/icanzilb)|![](https://raw.githubusercontent.com/icanzilb/SwiftSpinner/master/etc/spinner-preview.gif)|swift|漂亮的菊花控件|
+|[SwiftGraphics](https://github.com/schwa/SwiftGraphics)|[Jonathan&nbsp;Wight](https://github.com/schwa)|![](https://github.com/schwa/SwiftGraphics/raw/develop/Documentation/ConvexHull.png)|swift|swift和Graphics的中间件|
+|[PageMenu](https://github.com/uacaps/PageMenu)|[Center&nbsp;for&nbsp;Advanced&nbsp;Public&nbsp;Safety](https://github.com/uacaps)|![](https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif)|swift|网易新闻的分页&nbsp;多控制器页面|
+|[BWWalkthrough](https://github.com/ariok/BWWalkthrough)|[Yari&nbsp;@bitwaker](https://github.com/ariok)|![](https://camo.githubusercontent.com/da60dc338f1325ad6f317e850d79ec135e64b116/687474703a2f2f7777772e7468696e6b616e646275696c642e69742f676966732f425757616c6b7468726f7567685f6d696e69322e676966)|swift|方便的制作引导页|
+|[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView)|[Taiki&nbsp;Suzuki](https://github.com/marty-suzuki)|![](https://github.com/marty-suzuki/SABlurImageView/raw/master/SampleImage/sample.gif)|swift|仅仅两行代码实现毛玻璃效果|
+|[BRYXBanner](https://github.com/bryx-inc/BRYXBanner)|[Bryx,&nbsp;Inc](https://github.com/bryx-inc)|![](https://raw.githubusercontent.com/bryx-inc/BRYXBanner/master/Example/Demo.gif)|swift|类似系统通知的提示框|
+|[FillableLoaders](https://github.com/poolqf/FillableLoaders)|[Pol&nbsp;Quintana](https://github.com/poolqf)|![](https://github.com/poolqf/FillableLoaders/raw/master/Images/progress.gif)|swift|进度动画&nbsp;自定义CGPaths&nbsp;效果很赞|
+|[TKAnimatedCheckButton](https://github.com/entotsu/TKAnimatedCheckButton)|[Takuya&nbsp;Okamoto](https://github.com/entotsu)|![](https://raw.githubusercontent.com/entotsu/TKAnimatedCheckButton/master/demo.gif)|swift|漂亮的点击确认动画|
+|[PullToBounce](https://github.com/entotsu/PullToBounce)|[Takuya&nbsp;Okamoto](https://github.com/entotsu)|![](https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif)|swift|漂亮的点击确认动画下拉刷新动画|
+|[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|[Vinh&nbsp;Nguyen](https://github.com/ninjaprox)|![](https://raw.githubusercontent.com/ninjaprox/NVActivityIndicatorView/master/Demo.gif)|swift|菊花大合集
+|[MZTimerLabel](https://github.com/mineschan/MZTimerLabel)|[MineS&nbsp;Chan](https://github.com/mineschan)|![](https://camo.githubusercontent.com/10e65649d00c0cd1e184c69c9b283a911575e777/68747470733a2f2f7261772e6769746875622e636f6d2f6d696e65736368616e2f4d5a54696d65724c6162656c2f6d61737465722f64656d6f2e676966)|Objective-C|基于UILabel封装的类似于系统计时器的控件|
+|[JazzHands](https://github.com/IFTTT/JazzHands)|[IFTTT](https://github.com/IFTTT)|![](https://github.com/IFTTT/JazzHands/raw/master/Example/Docs/jazzhands-demo.gif)|Objective-C|简单的关键帧动画框架|
+|[RazzleDazzle](https://github.com/IFTTT/JazzHands)|[IFTTT](https://github.com/IFTTT)|![](https://github.com/IFTTT/JazzHands/raw/master/Example/Docs/jazzhands-demo.gif)|swift|简单的关键帧动画框架.swift|
+|[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|[Imanol&nbsp;Fernandez](https://github.com/MortimerGoro)|![](https://raw.githubusercontent.com/MortimerGoro/MGSwipeTableCell/master/readme-assets/border.gif)|Objective-C|基于UITableViewCell扩展的可以左右滑动出现按钮的控件|
+|[FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)|[Pride&nbsp;Chung](https://github.com/PrideChung)||Objective-C|字体图片、类似于网页上的将图片做成字体|
+|[PermissionScope](https://github.com/nickoneill/PermissionScope)|[Nick&nbsp;O'Neill](https://github.com/nickoneill)|![](https://camo.githubusercontent.com/b3aadf6f7486413749922757a42d863132f836d6/687474703a2f2f726171756f2e6e65742f696d616765732f7065726d697373696f6e73636f70652e676966)|swift|将各种申请的权限统一起来放入一个UI进行展示|
+
 
 
 
@@ -101,6 +119,14 @@
 |[BluetoothKit](https://github.com/rhummelmose/BluetoothKit)|[Rasmus&nbsp;Høhndorf&nbsp;Hummelmose](https://github.com/rhummelmose)||swift|蓝牙封装库|
 |[Watchdog](https://github.com/wojteklu/Watchdog)|[Wojtek&nbsp;Lukaszuk](https://github.com/wojteklu)||swift|监听主线程_当主线程阻塞时发出警告|
 |[MonkeyKing](https://github.com/nixzhu/MonkeyKing)|[nixzhu](https://github.com/nixzhu)|![](https://raw.githubusercontent.com/nixzhu/MonkeyKing/master/images/wbOAuth.png)|swift|集成chineseSocial_Framework 不方便使用友盟的可以试试|
+|[LocationManager](https://github.com/varshylmobile/LocationManager)|[Jimmy&nbsp;Jose](https://github.com/varshylmobile)|![](https://camo.githubusercontent.com/548eb9613fe3498d15b70170d9b19bf9a025c374/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f636f61636f6e74726f6c735f70726f64756374696f6e2f75706c6f6164732f636f6e74726f6c5f696d6167652f696d6167652f343538392f694f535f53696d756c61746f725f53637265656e5f53686f745f32382d4175672d323031345f342e30302e32345f706d2e706e67)|swift|对CLLocationManger的封装&nbsp;方便的定位&nbsp;地理位置编码/反编码|
+|[MapManager](https://github.com/varshylmobile/MapManager)|[Jimmy&nbsp;Jose](https://github.com/varshylmobile)|![](https://camo.githubusercontent.com/71c60b8559adfa951571b5a2133a47e83cf70bee/687474703a2f2f696d6775722e636f6d2f42705a385850782e706e67)|swift|对MapKit的封装&nbsp;方便的获取并绘制路线|
+|[GDWebViewController](https://github.com/coffellas-cto/GDWebViewController)|[Alex&nbsp;Gordiyenko](https://github.com/coffellas-cto)|![](https://cloud.githubusercontent.com/assets/3193877/7665617/29a8672a-fbc9-11e4-98cf-41fec0f6c403.gif)|swift|对WKWebView的封装|
+|[PINRemoteImage](https://github.com/pinterest/PINRemoteImage)|[Pinterest](https://github.com/pinterest)|![](https://github.com/pinterest/PINRemoteImage/raw/master/progressive.gif)|Objective-C|线程安全&nbsp;优雅的图片加载框架|
+|[KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)|[kishikawa&nbsp;katsumi](https://github.com/kishikawakatsumi)|![](https://raw.githubusercontent.com/kishikawakatsumi/KeychainAccess/master/Screenshots/02.png)|swift|对Keychain的封装|
+|[Concorde](https://github.com/contentful-labs/Concorde)|[contentful-labs](https://github.com/contentful-labs)|![](https://github.com/contentful-labs/Concorde/raw/master/use.gif)|swift&Objective-C|带动画的下载并解析JPEG图片框架|
+|[FontBlaster](https://github.com/ArtSabintsev/FontBlaster)|[Arthur&nbsp;Ariel&nbsp;Sabintsev](https://github.com/ArtSabintsev)||swift|方便的load自定义字体|
+|[iRate](https://github.com/nicklockwood/iRate)|[Nick&nbsp;Lockwood](https://github.com/nicklockwood)||Objective-C|提醒用户前往AppStore给好评&nbsp;可以设置出现的频率和周期|
 
 
 
@@ -126,6 +152,8 @@
 |[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)|[Hearst-Digital&nbsp;Products&nbsp;Development&nbsp;Group](https://github.com/Hearst-DD)|暂无|swift|json转model框架|
 |[YYModel](https://github.com/ibireme/YYModel)|[Yaoyuan](https://github.com/ibireme)|![](https://camo.githubusercontent.com/73e6774154cfe8652b61f62e8ea32cac48969033/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594d6f64656c2f6d61737465722f42656e63686d61726b2f526573756c742e706e67)|Objective-C|高性能的model解析框架 默认的转换规则避免了许多因为数据问题产生的崩溃|
 |[Just](https://github.com/JustHTTP/Just)|[Daniel&nbsp;Duan](https://github.com/JustHTTP)|![](https://raw.githubusercontent.com/JustHTTP/Just/master/Docs/IconMasked.png)|swift|友好的Http请求框架_提供了基本的Post/Get方法|
+|[SocketRocket](https://github.com/facebook/SocketRocket)|[Facebook](https://github.com/facebook)||Objective-C|facebook出品的socket库|
+
 
 
 >开源project
